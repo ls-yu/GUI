@@ -3,7 +3,7 @@ global x;
 global y;
 global S;
 S = struct;
-x=GUI_Linda;
+x=GUI_LYU;
 
 %     
 % ndof = 0; % number of dofs
